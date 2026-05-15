@@ -8,6 +8,7 @@ Registro y actualización de datos
 Interfaz sencilla y fácil de usar
 Integración con archivos para almacenamiento de información
 Proyecto desarrollado en Windows Forms
+
 English
 
 Distribution system developed in C# using Visual Studio 2015, designed to manage products, sales, and store records in a simple and efficient way. The program includes data management features, record updating, and inventory handling through an intuitive interface focused on academic projects and small businesses.
